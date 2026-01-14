@@ -48,24 +48,18 @@ ${guestName}
 
 Assalamu'alaikum Warahmatullahi Wabarakatuh
 
-Tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri acara pernikahan kami:
+Dengan memohon rahmat dan ridho Allah Subhanahu Wa Ta'ala dan tanpa mengurangi rasa hormat kami, kami bermaksud untuk mengundang Bapak/Ibu/saudara/i dalam acara pernikahan kami:
+Ainun Sekar Arcturiani Putri & Farhan Taufiqul Hafidz 
 
-✨ *Ainun & Farhan* ✨
+Berikut link undangan kami, untuk info lengkap dari acara bisa kunjungi :
 
-Yang akan diselenggarakan pada:
-📅 Sabtu, 15 Februari 2026
-⏰ Pukul 08.00 WIB - Selesai
-📍 Gedung Pernikahan Bahagia
-Jl. Kebahagiaan No. 123, Jakarta
+${link}
 
-Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu.
+Kami memohon doa restu dan ridho dari Allah SWT serta berharap saudara/i sekalian dapat hadir memberikan doa restu dan dukungan kepada kami. Semoga Allah SWT senantiasa memberkahi langkah-langkah kami dalam membina rumah tangga yang sakinah, mawaddah, wa rahmah.
 
-Atas kehadiran dan doa restunya, kami ucapkan terima kasih.
+Demikianlah, undangan ini kami sampaikan. Terima kasih atas doa dan kehadiran saudara/i sekalian dalam acara pernikahan kami. Semoga Allah SWT membalas kebaikan saudara/i sekalian.
 
-Wassalamu'alaikum Warahmatullahi Wabarakatuh
-
-Untuk informasi lebih lengkap, silakan kunjungi:
-${link}`;
+Wassalamu'alaikum Warahmatullahi Wabarakatuh`;
   };
 
   // Copy text
