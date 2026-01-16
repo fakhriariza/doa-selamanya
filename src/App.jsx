@@ -43,23 +43,26 @@ export default function WeddingInvitationGenerator() {
   const generateInvitationText = () => {
     if (!guestName || !link) return "";
 
-    return `Kepada Yth.
+    return `Assalamualaikum Warahmatullahi Wabarakatuh
+
+Kepada Yth:
 ${guestName}
 
-Assalamu'alaikum Warahmatullahi Wabarakatuh
+Dengan memohon rahmat dan ridho Allah Subhanahu Wa Ta'ala dan tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri acara pernikahan kami:
 
-Dengan memohon rahmat dan ridho Allah Subhanahu Wa Ta'ala dan tanpa mengurangi rasa hormat kami, kami bermaksud untuk mengundang Bapak/Ibu/saudara/i dalam acara pernikahan kami:
-Ainun Sekar Arcturiani Putri & Farhan Taufiqul Hafidz 
+Ainun Sekar Arcturiani Putri dan Farhan Taufiqul Hafidz.
 
-Berikut link undangan kami, untuk info lengkap dari acara bisa kunjungi :
+Berikut link undangan kami, untuk info lengkap dari acara bisa kunjungi: 
 
 ${link}
 
-Kami memohon doa restu dan ridho dari Allah SWT serta berharap saudara/i sekalian dapat hadir memberikan doa restu dan dukungan kepada kami. Semoga Allah SWT senantiasa memberkahi langkah-langkah kami dalam membina rumah tangga yang sakinah, mawaddah, wa rahmah.
+Merupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan untuk hadir dan memberikan doa restu.
 
-Demikianlah, undangan ini kami sampaikan. Terima kasih atas doa dan kehadiran saudara/i sekalian dalam acara pernikahan kami. Semoga Allah SWT membalas kebaikan saudara/i sekalian.
+Mohon maaf perihal undangan hanya di bagikan melalui pesan ini. Kami juga memohon maaf apabila ada kesalahan dalam penulisan nama ataupun gelar pada undangan.
 
-Wassalamu'alaikum Warahmatullahi Wabarakatuh`;
+Atas perhatiannya kami ucapkan terima kasih.
+
+Wassalamualaikum Warahmatullahi Wabarakatuh`;
   };
 
   // Copy text
